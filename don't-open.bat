@@ -42,19 +42,19 @@ cls
 
 :: Funny messages
 echo.
-echo Stealing your WiFi password... 😈
+echo Stealing your WiFi password... 
 timeout /t 2 >nul
-echo Found: "12345678" 🤣
+echo Found: "12345678" 
 timeout /t 2 >nul
 
 echo.
-echo Accessing your browser history... 😏
+echo Accessing your browser history... 
 timeout /t 2 >nul
-echo Oh no... embarrassing searches found 😂
+echo Oh no... embarrassing searches found 
 timeout /t 3 >nul
 
 echo.
-echo Sending your selfies to NASA 🚀
+echo Sending your selfies to NASA 
 timeout /t 2 >nul
 
 echo.
