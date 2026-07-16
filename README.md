@@ -10,4 +10,4 @@ So just sit back to your chair execute this file and enjoy,
 Thank you...
 
 
- ![Image Alt]([image_url](https://github.com/utkarsh206/Don-t-Open/blob/5545e6a002afc010a4835ed5fb42d994ed161b17/1.png))
+![Image Alt](image_url) 
